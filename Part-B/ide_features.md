@@ -2,34 +2,23 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+The course IDE that I decided to us is VS Code. According to "Visual Studio Code," 2026), Visual Studio Code (VS Code) was created in 2015 by Microsoft and in the 2025 Stack Overflow developer survey (which has over 49,000 responses) 75.9% of respondents reported using VS Code.  In my opinion, VS code has a lot of customization that I like and it feels more modern than Codio does.  The additional customization features make creating code fun as well.  Also, the error messages give you insight on what needs to be changed as well which i like.  After I successfully finished the assignment and it ran properly, I felt pretty accomplised and I had fun running the code over and over to get different results
 
-TODO: Replace with your introduction here.
+## Feature 1 – Extensions
+As mentioned in my introduction, I enjoy having the ability to customize my IDE.  Since VS code is open source, people and companies can create extensions to make the coding experience a more enjoyable one.  The features can change the color of your text, and also try to complete the code that you are writing.  In my opinion, these features can give anyone the ability to learn how to write code properly while making the experience a bit more fun.
 
-## Feature 1 – TODO: Replace with name of your Feature1
+## Feature 2 – Terminal
+This feature lets you run commands, scrips and test your code without leaving the editor.  This feature is one of my fvaorites because i was able to test my code as much as I wanted without having to open anything else.  This feature is important because it gives you the ability to test parts of your code without having to finish it all before testing.  I also thought that having the terminal at the bottom of your editor was a good idea as well.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
-
-TODO: Replace with your Feature 1 paragraph here.
-
-## Feature 2 – TODO: Replace with name of your Feature2
-
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
+## Feature 3 – Split Editor
 > In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
 
-TODO: Replace with your Feature 3 paragraph here.
+I didn't have a chance to use this feature, but I have seen ways that it can help my workflow.  The split editor can give me the ability to have coding instructions open without having to go back and forth to make sure that I am not missing anything which will save time when completing more lengthy coding assignments.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
+In conclusion, I enjoyed my experience with VS Code, and the features that I have been able to explore so far made my experience more enjoyable to where I do not dred coming back to do more.
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Visual Studio Code. (2026, September 8). In Wikipedia. https://en.wikipedia.org/wiki/Visual_Studio_Code
